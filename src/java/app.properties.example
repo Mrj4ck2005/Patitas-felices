@@ -1,0 +1,9 @@
+# Base de Datos SQL Server
+db.url=jdbc:sqlserver://localhost:1433;databaseName=db_patitas_felices;encrypt=true;trustServerCertificate=true
+db.user=PON_TU_USUARIO_AQUI
+db.pass=PON_TU_CLAVE_AQUI
+
+# Cloudinary
+cloudinary.name=PON_TU_CLOUD_NAME
+cloudinary.key=PON_TU_API_KEY
+cloudinary.secret=PON_TU_API_SECRET

@@ -1,0 +1,18 @@
+/* Estilos propios - Refugio Patitas Felices */
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+.navbar-brand {
+    font-size: 1.3rem;
+}
+.card {
+    border: none;
+    border-radius: 12px;
+    transition: transform .15s ease;
+}
+.card:hover {
+    transform: translateY(-4px);
+}
+.btn-info {
+    color: #fff;
+}
